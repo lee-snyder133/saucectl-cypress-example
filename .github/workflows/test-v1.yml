@@ -1,4 +1,4 @@
-name: saucectl cypress tests v1
+name: saucectl cypress tests v133
 
 on:
   pull_request:
